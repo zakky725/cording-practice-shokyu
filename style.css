@@ -211,7 +211,7 @@ img {
 
 @media (max-width: 280px) {
     .main-nav li {
-        font-size: 11px;
+        font-size: 10px;
     }
 
     .btn a {
